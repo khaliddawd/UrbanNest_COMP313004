@@ -21,6 +21,10 @@ npm install
 npm run dev
 
 
+![UrbanNest Preview](https://raw.githubusercontent.com/khaliddawd/UrbanNest_COMP313004/main/UrbanNest.jpg)
+
+
+
 
 
 
