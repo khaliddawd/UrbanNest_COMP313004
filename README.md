@@ -1,7 +1,7 @@
 # UrbanNest_COMP313004/ Final project 
 Technologies Used
 
-Backend: Node.js
+Backend: Node.js,Express.js
 
 DataBase: MongoDB
 
