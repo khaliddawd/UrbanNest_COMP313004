@@ -1,4 +1,4 @@
-# UrbanNest_COMP313004/ Final project 
+# UrbanNest_COMP313004/ Group Final project 
 UrbanNest - Real Estate Web Application
 UrbanNest is a comprehensive real estate platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to browse, search, and list properties for rent or sale. The app provides an intuitive user interface, seamless user authentication, and a rich search functionality.
 
